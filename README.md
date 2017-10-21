@@ -28,7 +28,7 @@ All projects must have the following:
 1. A backlog (in todo.txt file) and planned sprints.
 1. Follow a versioned release process (v1, v2, v3, v4).
 1. Be mobile responsive or be a mobile app.
-1. Must be live, at least on the web
+1. Must be live on the web and in the app store (if app)
 1. At least weekly meetings (on the calendar with a time and location).
 1. Projects must be written in Make School technologies: Python, JavaScript, Swift, Express.js, Flask, React.js, MongoDB, PostgreSQL, etc.
 1. A presentation (5min pitch, demo, and Q&A)
@@ -36,12 +36,9 @@ All projects must have the following:
 All projects must have at least two of the following five characteristics:
 
 1. Authentication and Authorization
-1. 3 Resources
 1. Be crossplatform (mobile app and browser)
-1. 
-
-All projects must have at least 3 of the following traits:
-1. 
+1. Use an external API
+1. Complex queries and associations between >= 3 resources
 
 ## How to Turn In
 
