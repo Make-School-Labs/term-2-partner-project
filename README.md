@@ -48,3 +48,11 @@ Turn in the following links in the [Core 2 Project Tracker](https://docs.google.
 1. Project Planning
 1. Creativity
 1. Technical Sophistication
+
+## Project Planning Docs
+
+### Wireframes
+
+Wireframes are fast, rough sketches for your major views of your project.
+
+![wireframes](Image result for wireframes.png)
