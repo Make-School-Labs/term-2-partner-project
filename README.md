@@ -51,8 +51,36 @@ Turn in the following links in the [Core 2 Project Tracker](https://docs.google.
 
 ## Project Planning Docs
 
+### User Narratives
+
+User narratives are stories where you **get inside the heads of your users**. They are **NOT A LIST OF FEATURES**.
+
+Here's an example for a user narrative for a "Yelp for Landlords"
+
+> [info]
+> Hi, I'm Randy the Renter and I'm looking for housing in San Francisco. I found 5 or 6 places on craiglist to live, but I want to see if the landlord is good because I've had trouble in the past with bad landlords. I go to "yelpforlandlords.com" and search by the address of the unit. The landlord comes up. It looks like they are a good landlord, 5 stars and based on the underlying property value, she doesn't gauge the renters. Awesome!
+
+
+By fully **getting inside the head of a user** you can build an app that people actually want to use. This techinque can be used for hardware, software, even when you are building esoteric software development libraries, you always have a user that you want to make happy.
+
+Another example:
+
+
+> [info]
+> Hi, I'm Larry the Landlord and I'm a great landlord and want to read my reviews on yelpforlandlords.com. I visit the page and I look up my name. I find that I have many good reviews and I leave responses like "Thanks! You were a great tenant". On one negative review I try to give context to the problem they had.
+
+
+1. Write 3 user narratives for one of your favorite apps.
+
 ### Wireframes
 
 Wireframes are fast, rough sketches for your major views of your project.
 
-![wireframes](Image result for wireframes.png "Wireframes")
+1. Read this article "[How to Create Your First Wireframe](https://careerfoundry.com/en/blog/ux-design/how-to-create-your-first-wireframe/)" (8 min)
+1. Pick an app and draw a wireframe of the app
+1. pick an website and draw a wireframe of one page. (Don't forget to draw a second wireframe for how the screen looks on mobile)
+
+## ERD - Entity Relationship Diagram
+
+1. Read "[Everything you need to Know about ERD](https://www.smartdraw.com/entity-relationship-diagram/)".
+1. Now make 3 ERD's - one for each of your favorite apps or websites. (Just guess what their entities are named!)
