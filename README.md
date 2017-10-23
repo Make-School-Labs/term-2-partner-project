@@ -33,25 +33,18 @@ All projects must have the following:
 1. Projects must be written in Make School technologies: Python, JavaScript, Swift, Express.js, Flask, React.js, MongoDB, PostgreSQL, etc.
 1. A presentation (5min pitch, demo, and Q&A)
 
-All projects must have at least two of the following five characteristics:
-
-1. Authentication and Authorization
-1. Be crossplatform (mobile app and browser)
-1. Use an external API
-1. Complex queries and associations between >= 3 resources
-
-## How to Turn In
+## How to Turn Your Project In
 
 Turn in the following links in the [Core 2 Project Tracker](https://docs.google.com/spreadsheets/d/1FgcCswGm4dmn7jIwYNARBCFt7MdGEr_lfuTLzHFR-DA/edit?usp=sharing)
 
 1. Staging URL Link
 1. Github URL Link
 
-## Judged On
+## The Project Will Be Judged On
 
 1. Beauty and Usability (UI/UX)
+1. Code Craftsmanship
 1. Teamwork
 1. Project Planning
-1. Code Craftsmanship
 1. Creativity
 1. Technical Sophistication
