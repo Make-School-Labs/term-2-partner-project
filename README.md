@@ -55,4 +55,4 @@ Turn in the following links in the [Core 2 Project Tracker](https://docs.google.
 
 Wireframes are fast, rough sketches for your major views of your project.
 
-![wireframes](Image result for wireframes.png)
+![wireframes](Image result for wireframes.png "Wireframes")
